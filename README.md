@@ -10,4 +10,4 @@ python3 dotNessus_Parser.py scanner.nessus
 ```
 
 
-![Demo](https://github.com/hack-parthsharma/dotNessus_Parser/blob/master/demo.gif)
+![Demo](https://github.com/hack-parthsharma/DotNessus_Parser/blob/master/demo.gif)
